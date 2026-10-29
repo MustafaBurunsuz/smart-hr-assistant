@@ -10,7 +10,7 @@
 
 ---
 
-## 📖 1. Problem Tanımı ve Gerçek Dünyaya Uygunluk (%20)
+## 📖 1. Problem Tanımı ve Gerçek Dünyaya Uygunluk 
 
 ### Çözülen Problem
 Modern şirketlerde İnsan Kaynakları (İK) departmanları zamanlarının büyük bölümünü tekrarlayan operasyonel taleplere harcamaktadır:
@@ -30,7 +30,7 @@ Basit bir LLM chatbot'u bu problemi çözemez; çünkü:
 
 ---
 
-## 🏗️ 2. Agentic Mimari ve Eğitim Yaklaşımları (%20)
+## 🏗️ 2. Agentic Mimari ve Eğitim Yaklaşımları
 
 Sistem, **LangGraph** tabanlı `StateGraph` üzerinde çalışan bir **Supervisor (Yönlendirici) ve 4 Uzman Agent** mimarisiyle tasarlanmıştır:
 
@@ -74,7 +74,7 @@ Sistem, **LangGraph** tabanlı `StateGraph` üzerinde çalışan bir **Superviso
 
 ---
 
-## 📸 3. Uygulama Ekran Görüntüleri ve Canlı Test Çıktıları (%20)
+## 📸 3. Uygulama Ekran Görüntüleri ve Canlı Test Çıktıları 
 
 Projenin web ve terminal ortamında canlı çalıştığını gösteren doğrulanmış ekran görüntüleri:
 
@@ -113,7 +113,7 @@ Projenin web ve terminal ortamında canlı çalıştığını gösteren doğrula
 
 ---
 
-## 🧪 4. İşlevsellik ve Test Senaryoları (%20)
+## 🧪 4. İşlevsellik ve Test Senaryoları 
 
 Proje, master planında tanımlanan 10 temel değerlendirme senaryosunun tamamını `python scripts/run_tests.py` komutuyla otomatik test eder ve **%100 Başarı** ile tamamlar:
 
@@ -132,7 +132,7 @@ Proje, master planında tanımlanan 10 temel değerlendirme senaryosunun tamamı
 
 ---
 
-## 📁 5. Proje Klasör Yapısı ve Kod Organizasyonu (%20)
+## 📁 5. Proje Klasör Yapısı ve Kod Organizasyonu
 
 ```
 smart-hr-assistant/
