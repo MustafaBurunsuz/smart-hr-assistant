@@ -78,38 +78,38 @@ Sistem, **LangGraph** tabanlı `StateGraph` üzerinde çalışan bir **Superviso
 
 Projenin web ve terminal ortamında canlı çalıştığını gösteren doğrulanmış ekran görüntüleri:
 
-### Görsel 1: Akıllı İK Asistanı Canlı Web Konsolu ve Multi-Agent Durumu
-*LangGraph Orchestration, Aktif Çalışan Oturumu ve Ollama LLM Motoru (qwen2.5-coder:7b) bağlı canlı kontrol paneli.*
+### Görsel 1: Onboarding Süreci ve İlk Gün Görevleri ("Yeni işe başladım, ne yapmam lazım?")
+*Yeni çalışan oryantasyonu, ilk gün kontrol listesi (IT ekipman teslimi, İK oryantasyon vb.) ve mentor (Ayşe Demir) rehberliği.*
 
-![Smart HR Assistant Canlı Arayüz](screenshots/yss1.png)
-
----
-
-### Görsel 2: Onboarding Kontrol Listesi ve Mentor (Buddy) Rehberliği
-*Yeni işe başlayan çalışan için ilk gün yapılacaklar checklist'inin sorgulanması ve dinamik mentor eşleştirmesi.*
-
-![Onboarding Süreci](screenshots/yss2.png)
+![Onboarding Süreci](screenshots/yss1.png)
 
 ---
 
-### Görsel 3: Çok Adımlı İzin Yönetimi ve Oturum Hafızası (Memory & Slot Filling)
-*Kullanıcı "5 gün izin istiyorum" dediğinde tarihin hafızada tutulması ve talebin yönetici onayına bağlanması.*
+### Görsel 2: Çok Adımlı İzin Başvurusu ve Tarih Slot Filling ("5 gün izin kullanmak istiyorum")
+*Oturum hafızası (Conversation Memory) ile gün sayısının hatırlanması, eksik tarihin sorgulanması ve talebin yönetici onayına bağlanması.*
 
-![İzin Yönetimi ve Slot Filling](screenshots/yss3.png)
-
----
-
-### Görsel 4: RAG (Retrieval-Augmented Generation) ile İK Politikaları ve Mevzuat Danışmanlığı
-*25 maddelik şirket el kitabından "Evlilik İzni", "Uzaktan Çalışma" ve "Eğitim Bütçesi" kurallarının taranıp yapay zeka ile sentezlenmesi.*
-
-![RAG Politika Sorgusu](screenshots/yss4.png)
+![İzin Talebi ve Çok Adımlı Akıl Yürütme](screenshots/yss2.png)
 
 ---
 
-### Görsel 5: Mülakat Takvim Yönetimi ve Resmi Belge Hazırlama
-*Mülakat iptali / ertelemesi ve anında resmi PDF Hizmet Dökümü belgesinin oluşturulması.*
+### Görsel 3: Mülakat Takvim Yönetimi ve İptal İşlemi ("Mülakatımı iptal etmek istiyorum")
+*Interview Agent tarafından planlı mülakatın (INT-123) sorgulanması, başarıyla iptal edilmesi ve katılımcılara takvim iptal bildiriminin iletilmesi.*
 
-![Mülakat ve Belge Yönetimi](screenshots/yss5.png)
+![Mülakat İptali ve Takvim Yönetimi](screenshots/yss3.png)
+
+---
+
+### Görsel 4: Resmi Evrak ve Hizmet Dökümü Üretimi ("Hizmet dökümü belgesi lazım")
+*Document Agent tarafından çalışana ait resmi Çalışma ve Hizmet Döküm Belgesinin otomatik PDF formatında oluşturulması ve indirme yolunun hazırlanması.*
+
+![Hizmet Dökümü Belgesi Üretimi](screenshots/yss4.png)
+
+---
+
+### Görsel 5: İzin Bakiyesi Sorgulama ("İzin bakiyemi sordum")
+*Leave Agent ve veritabanı sorgusuyla 2026 yılı için kalan yıllık izin (14 gün), hastalık ve mazeret izinlerinin detaylı listelenmesi.*
+
+![İzin Bakiyesi Sorgulama](screenshots/yss5.png)
 
 ---
 
