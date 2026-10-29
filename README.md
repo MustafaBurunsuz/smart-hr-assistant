@@ -6,7 +6,7 @@
 [![LangChain](https://img.shields.io/badge/Framework-LangChain-green.svg)](https://python.langchain.com/)
 [![Ollama](https://img.shields.io/badge/LLM-Ollama%20(Qwen2.5--Coder%20%2F%20Qwen3)-purple.svg)](https://ollama.com/)
 [![VectorDB](https://img.shields.io/badge/Vector%20DB-FAISS-red.svg)](https://github.com/facebookresearch/faiss)
-[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
+
 
 ---
 
