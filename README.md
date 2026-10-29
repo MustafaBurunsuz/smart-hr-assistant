@@ -261,9 +261,3 @@ git branch -M main
 git remote add origin https://github.com/<KULLANICI_ADINIZ>/smart-hr-assistant.git
 git push -u origin main
 ```
-
----
-
-## 👨‍💻 Geliştirici & Lisans
-- **Program:** Agentic AI Bootcamp (Ekim 2026 Kapanış Projesi)
-- **Lisans:** MIT License
