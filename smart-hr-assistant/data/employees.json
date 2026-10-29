@@ -1,0 +1,71 @@
+[
+  {
+    "employee_id": "EMP-001",
+    "name": "Mustafa Yılmaz",
+    "email": "mustafa.yilmaz@sirket.com",
+    "department": "Yazılım Geliştirme",
+    "position": "Yazılım Geliştirici",
+    "start_date": "2026-10-15",
+    "manager_id": "EMP-003",
+    "manager_name": "Ahmet Yılmaz",
+    "buddy_id": "EMP-002",
+    "buddy_name": "Ayşe Demir",
+    "buddy_email": "ayse.demir@sirket.com",
+    "status": "active",
+    "leave_balance": {
+      "annual": 1,
+      "sick": 3,
+      "sick_used": 1,
+      "excuse": 2,
+      "marriage": 5,
+      "maternity": 112,
+      "paternity": 5
+    }
+  },
+  {
+    "employee_id": "EMP-002",
+    "name": "Ayşe Demir",
+    "email": "ayse.demir@sirket.com",
+    "department": "Yazılım Geliştirme",
+    "position": "Kıdemli Yazılım Mimarı",
+    "start_date": "2023-03-01",
+    "manager_id": "EMP-003",
+    "manager_name": "Ahmet Yılmaz",
+    "buddy_id": null,
+    "buddy_name": null,
+    "buddy_email": null,
+    "status": "active",
+    "leave_balance": {
+      "annual": 20,
+      "sick": 5,
+      "sick_used": 0,
+      "excuse": 3,
+      "marriage": 5,
+      "maternity": 112,
+      "paternity": 5
+    }
+  },
+  {
+    "employee_id": "EMP-003",
+    "name": "Ahmet Yılmaz",
+    "email": "ahmet.yilmaz@sirket.com",
+    "department": "Mühendislik",
+    "position": "Mühendislik Direktörü",
+    "start_date": "2020-01-10",
+    "manager_id": null,
+    "manager_name": null,
+    "buddy_id": null,
+    "buddy_name": null,
+    "buddy_email": null,
+    "status": "active",
+    "leave_balance": {
+      "annual": 24,
+      "sick": 10,
+      "sick_used": 2,
+      "excuse": 5,
+      "marriage": 5,
+      "maternity": 112,
+      "paternity": 5
+    }
+  }
+]

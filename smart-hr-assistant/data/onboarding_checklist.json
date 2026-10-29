@@ -1,0 +1,36 @@
+[
+  {
+    "employee_id": "EMP-001",
+    "onboarding_started": true,
+    "started_at": "2026-10-15",
+    "buddy_id": "EMP-002",
+    "buddy_name": "Ayşe Demir",
+    "buddy_email": "ayse.demir@sirket.com",
+    "checklist": [
+      {
+        "id": "CHK-01",
+        "task": "IT ekipman teslimi (Laptop, aksesuarlar)",
+        "status": "completed",
+        "completed_at": "2026-10-15"
+      },
+      {
+        "id": "CHK-02",
+        "task": "IK oryantasyon (Bekleniyor)",
+        "status": "pending",
+        "completed_at": null
+      },
+      {
+        "id": "CHK-03",
+        "task": "Departman tanışması (Bekleniyor)",
+        "status": "pending",
+        "completed_at": null
+      },
+      {
+        "id": "CHK-04",
+        "task": "Eğitim portalı erişimi (Bekleniyor)",
+        "status": "pending",
+        "completed_at": null
+      }
+    ]
+  }
+]
