@@ -1,0 +1,38 @@
+[
+  {
+    "request_id": "REQ-1001",
+    "employee_id": "EMP-001",
+    "leave_type": "annual",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-12",
+    "days": 3,
+    "reason": "Yaz tatili",
+    "status": "approved",
+    "approved_by": "Ahmet Yılmaz",
+    "created_at": "2026-08-01"
+  },
+  {
+    "request_id": "REQ-1002",
+    "employee_id": "EMP-001",
+    "leave_type": "annual",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-05",
+    "days": 5,
+    "reason": "Yıllık dinlenme",
+    "status": "pending_approval",
+    "approved_by": "Ahmet Yılmaz",
+    "created_at": "2026-10-29"
+  },
+  {
+    "request_id": "REQ-1003",
+    "employee_id": "EMP-001",
+    "leave_type": "annual",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "days": 8,
+    "reason": "Yıllık dinlenme",
+    "status": "pending_approval",
+    "approved_by": "Ahmet Yılmaz",
+    "created_at": "2026-10-29"
+  }
+]
